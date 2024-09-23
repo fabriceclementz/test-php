@@ -1,0 +1,17 @@
+{
+    "name": "fabriceclementz/test-php",
+    "require": {
+        "monolog/monolog": "^3.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fabriceclementz\\TestPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fabrice Clementz",
+            "email": "f.clementz@sdv.fr"
+        }
+    ]
+}
